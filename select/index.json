@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OSAKA BEBE",
+  "base_artist": "TOPHAMHAT-KYO",
+  "createdAt": "2026-02-11T15:10:16.918597Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OSAKA BEBE (feat. 雨天決行 & 司芭扶)",
+      "artist": "TOPHAMHAT-KYO",
+      "has_synced": false,
+      "path": "select/pl_01_OSAKA_BEBE_(feat._雨天決行_&_司芭扶)_TOPHAMHAT-KYO.txt"
+    }
+  ]
+}
